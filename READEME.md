@@ -5,5 +5,8 @@
 ### Tut03.  Autograd , nn.Module, optim
 ### Tut04.  Deeper Look at Gradient Descent
 ### Tut05.  Multivariate Linear Regression
-### Tut06. Logistic Regression
-### Tut07. Softmax Classification
+### Tut06.  Logistic Regression
+### Tut07.  Softmax Classification
+### Tut08.  MNIST
+### Tut09.  Percepton (Single Layer)
+### Tut10.  Percepton (MultiLayer Layer) 
