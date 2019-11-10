@@ -10,5 +10,8 @@
 ### Tut08.  MNIST
 ### Tut09.  Percepton (Single Layer)
 ### Tut10.  Percepton (MultiLayer Layer) 
+### Tut11.  ReLU
+### Tut12.  Weight Initialization
+### Tut13.  Dropout
   
  
