@@ -13,5 +13,6 @@
 ### Tut11.  ReLU
 ### Tut12.  Weight Initialization
 ### Tut13.  Dropout
-  
+### Tut14.  Batch Normalization1
+### Tut14.  Batch Normalization2
  
