@@ -1,5 +1,8 @@
 # Pytorch 를 사용한 딥러닝 A to Z 까진아니고 S??
 
+
+Please note that the following sections refer to everyone's deep learning lessons.
+
 ### Tut01.  Numpy Review
 ### Tut02.  Tensor VS Numpy
 ### Tut03.  Autograd , nn.Module, optim
@@ -13,6 +16,8 @@
 ### Tut11.  ReLU
 ### Tut12.  Weight Initialization
 ### Tut13.  Dropout
-### Tut14.  Batch Normalization1
-### Tut14.  Batch Normalization2
+### Tut14.  Batch Normalization01
+### Tut14.  Batch Normalization02
+### Tut15.  Batch Normalization03
+### Tut16.  Convolution01
  
