@@ -20,4 +20,7 @@ Please note that the following sections refer to everyone's deep learning lesson
 ### Tut14.  Batch Normalization02
 ### Tut15.  Batch Normalization03
 ### Tut16.  Convolution01
- 
+### Tut17.  Convolution02
+### Tut18.  Convolution03_visdom
+
+
