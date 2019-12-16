@@ -22,5 +22,9 @@ Please note that the following sections refer to everyone's deep learning lesson
 ### Tut16.  Convolution01
 ### Tut17.  Convolution02
 ### Tut18.  Convolution03_visdom
+### Tut19.  Convolution04
+    - image dataset customizing
+    - model saving
+    - dog and cat classification
 
 
