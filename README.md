@@ -26,5 +26,33 @@ Please note that the following sections refer to everyone's deep learning lesson
     - image dataset customizing
     - model saving
     - dog and cat classification
+### Tut20.  RNN basic
+    - RNN in Pytorch
+    - Simple Example
+        - Input
+        - Hidden State
+        - Sequence Length
+        - Batch Size
+### Tut21.  
+    - 'Hihello' problem
+    - Data Setting
+        - One hot encoding
+    - Cross entropy loss
+    - Code run through
+### Tut22.  
+    - Longseq introduction
+    - Making Sequence datasets from long sentence
+    - Adding FC layer and stacking RNN
+    - Code run through
+### Tut23.  
+    - Time Series Data
+    - Apply RNN
+        - Many to One
+        - Data Reading
+        - Neural Net Setting
+        - Training & Evaluation
+    - Exercise
+### Tut24.  
+    
 
 
